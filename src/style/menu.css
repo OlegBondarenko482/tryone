@@ -1,0 +1,15 @@
+
+.menu {
+    background: #3cff5f;
+    margin-top: 0;
+}
+
+li {
+    list-style-type: none;
+}
+.menu > li{
+    color: darkcyan;
+    font-weight: bold;
+    margin: 0 0 5px ;
+}
+

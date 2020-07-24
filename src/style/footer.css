@@ -1,0 +1,18 @@
+.footer {
+    background-image:
+            url("https://edmonton.citynews.ca/wp-content/blogs.dir/sites/15/2020/02/iStock-182914914-e1578359587346.jpg");
+    background-color: #cccccc;
+
+}
+
+.footer a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: bold;
+
+}
+
+.footer div {
+    display: inline-block;
+    margin: 10px;
+}

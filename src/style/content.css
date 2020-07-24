@@ -1,0 +1,11 @@
+.item {
+    width: 200px;
+    height: 240px;
+    background: #cccccc;
+    display: inline-block;
+    margin: 5px;
+}
+
+.container {
+    background-color: rgba(79,2,10,0.13);
+}

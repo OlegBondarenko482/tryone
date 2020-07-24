@@ -1,0 +1,19 @@
+div > img {
+    width: 70px;
+    opacity: 35%;
+}
+.wrapper {
+
+    padding-left: 30px;
+    color: #2337ff;
+    text-align: left;
+    background-image:
+            url("https://edmonton.citynews.ca/wp-content/blogs.dir/sites/15/2020/02/iStock-182914914-e1578359587346.jpg");
+            background-color: #cccccc;
+;
+}
+
+h1  {
+    text-align: left;
+    font-size: small;
+}
